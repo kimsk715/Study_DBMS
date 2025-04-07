@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="COMPANY_IMAGE"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="company_image"/>
+			<item value="APPLY"/>
+			<item value="ALTER"/>
+			<item value="alter"/>
+			<item value="REPORT"/>
+			<item value="COMPANY"/>
+			<item value="CHILD"/>
+			<item value="FLOOR"/>
+			<item value="PROFILE"/>
+			<item value="SYS"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="905"/>
+		<item key="DIALOG_Y_ORIGIN" value="340"/>
+		<item key="DIALOG_WIDTH" value="365"/>
+		<item key="DIALOG_HEIGHT" value="371"/>
+		<item key="DIALOG_FONT_NAME" value="1|D2Coding|9.0|0|WINDOWS|1|-27|0|0|0|400|0|0|0|-127|3|2|1|49|D2Coding"/>
+	</section>
+</section>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item id="NodeList/DBNProject">
+		<column name="경로" visible="true" order="0" width="100"/>
+		<column name="크기" visible="true" order="1" width="100"/>
+		<column name="최종 수정" visible="true" order="2" width="100"/>
+	</item>
+	<item id="NodeList/DBNProjectDatabases/DBNBookmarkFolder/DBNDiagramFolder/DBNResource">
+		<column name="이름" visible="true" order="0" width="100"/>
+		<column name="경로" visible="true" order="1" width="102"/>
+		<column name="최종 수정" visible="true" order="2" width="100"/>
+		<column name="크기" visible="true" order="3" width="100"/>
+	</item>
+	<item id="NodeList/DataSourceDescriptor">
+		<column name="이름" visible="true" order="0" width="100"/>
+		<column name="설명" visible="true" order="1" width="100"/>
+		<column name="Origin" visible="true" order="2" width="100"/>
+		<column name="드라이버 유형" visible="true" order="3" width="100"/>
+	</item>
+	<item id="NodeList/OracleSchema">
+		<column name="Name" visible="true" order="0" width="125"/>
+	</item>
+	<item id="NodeList/OracleSequence">
+		<column name="Sequence Name" visible="true" order="0" width="100"/>
+		<column name="Value" visible="true" order="1" width="100"/>
+		<column name="Min Value" visible="true" order="2" width="100"/>
+		<column name="Max Value" visible="true" order="3" width="100"/>
+		<column name="Increment" visible="true" order="4" width="100"/>
+		<column name="Cache" visible="true" order="5" width="100"/>
+		<column name="Cycle" visible="true" order="6" width="100"/>
+		<column name="Ordered" visible="true" order="7" width="100"/>
+	</item>
+	<item id="NodeList/OracleTable">
+		<column name="Name" visible="true" order="0" width="100"/>
+		<column name="Created" visible="true" order="1" width="144"/>
+		<column name="Last Changed" visible="true" order="2" width="144"/>
+		<column name="Stat Row Count" visible="true" order="3" width="100"/>
+		<column name="Tablespace" visible="true" order="4" width="100"/>
+		<column name="Comment" visible="true" order="5" width="100"/>
+	</item>
+	<item id="NodeList/OracleTableColumn">
+		<column name="컬럼명" visible="true" order="0" width="194"/>
+		<column name="#" visible="true" order="1" width="61"/>
+		<column name="Type" visible="true" order="2" width="160"/>
+		<column name="Type Mod" visible="true" order="3" width="100"/>
+		<column name="Not Null" visible="true" order="4" width="100"/>
+		<column name="디폴트" visible="true" order="5" width="100"/>
+		<column name="Comment" visible="true" order="6" width="100"/>
+	</item>
+	<item id="Suggestion/NodeList/OracleTableColumn">
+		<column name="컬럼명" visible="true" order="0" width="155"/>
+		<column name="#" visible="true" order="1" width="29"/>
+		<column name="Type" visible="true" order="2" width="98"/>
+		<column name="Type Mod" visible="false" order="3" width="100"/>
+		<column name="Not Null" visible="true" order="3" width="60"/>
+		<column name="디폴트" visible="true" order="4" width="53"/>
+		<column name="Comment" visible="true" order="5" width="67"/>
+	</item>
+	<item id="org.jkiss.dbeaver.tools.transfer.ui.pages.database.ColumnsMappingDialog">
+		<column name="Source Column" visible="true" order="0" width="153"/>
+		<column name="Source Type" visible="true" order="1" width="100"/>
+		<column name="Target Column" visible="true" order="2" width="100"/>
+		<column name="Target Type" visible="true" order="3" width="100"/>
+		<column name="Mapping" visible="true" order="4" width="100"/>
+		<column name="Transform" visible="true" order="5" width="100"/>
+	</item>
+</items>
